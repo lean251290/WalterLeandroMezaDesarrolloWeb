@@ -1,0 +1,16 @@
+body{
+	box-sizing: border-box;
+}
+
+.main{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction:column;
+}
+
+.section-1, .section-2, .section-3 {
+	width: 50%;
+	max-width: 50%;
+	font-size: 1rem;
+}
